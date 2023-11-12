@@ -26,8 +26,8 @@ I currently still learning and mastering some of these languages, but also my **
 I'm shot of projects, but I have done:
 
 > **Basic Calculator App** 📟
-> - [Repository](https:/github.com/DylanEzequiel/CalculatorTS)
-> - [Site](https://dylanezequiel.github.io/CalculatorTS)
+> - [Repository](https:/github.com/deep-seek/CalculatorTS)
+> - [Site](https://deep-seek.github.io/CalculatorTS)
 
 > **Personal Website** 🪁
 > - [Site](https://dylan-ezequiel.w3spaces.com)
