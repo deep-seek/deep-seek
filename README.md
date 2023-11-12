@@ -1,37 +1,27 @@
-# Welcome to my profile 👋
+# Welcome to my GitHub Profile 👋
 
-## This is me, *...* 🦦
+## This is me, *DeepSeek* 🐦‍⬛
 
-I'm from Ecuador. Always learning what I can and need and teaching if I can.
-You can visit my [Personal website](https://dylan-ezequiel.w3spaces.com) to know more **about me** *(OUTDATED)*.
+I'm from Ecuador. I'm always I can learning new things, I also teach others if they need and I can.
 
-## Knowledge 🪽
+I started coding since **3 years ago** just for fun, now I'm searching it to be my profession.
 
-With almost **3 years** of experience in programming.
+## My Knowledge 🪽
 
-I've knowledge in **Full-Stack Web Development**, with languages such as:
-> `HTML`, `CSS`, `JavaScript`, `TypeScript`
-> `Node.js`, `PHP`, `SQL`, `Java`
+I mainly do **Web Development**, **Full-Stack** to be precise. I know `HTML`, `CSS`, `JavaScript` & `TypeScript` as **Front-End**, and `PHP`, `Node.js`, `Python` & `SQL` as **Back-End**.
 
-Also in **Software Engineering**, with:
-> `C`, `Rust`, `C#`
+I also know **Software Engineering** technologies, such as `Java`, `C#`, `C` & `Rust`.
 
-And **DBMS** (Database Management Systems), with:
-> `Postgres`, `MySQL`
+As additional, I know about **Version Control Systems**, with `Git`. I also have knowledge in **Hardware** and basic **Cyber Security**.
 
-I currently still learning and mastering some of these languages, but also my **Programming Logic**.
+## My Projects 📂
 
-## Projects 📂
-
-I'm shot of projects, but I have done:
+To date, I have done **one** project:
 
 > **Basic Calculator App** 📟
-> - [Repository](https:/github.com/deep-seek/CalculatorTS)
-> - [Site](https://deep-seek.github.io/CalculatorTS)
+> - [Repository](https:/github.com/DylanEzequiel/CalculatorTS)
+> - [Site](https://dylanezequiel.github.io/CalculatorTS)
 
-> **Personal Website** 🪁
-> - [Site](https://dylan-ezequiel.w3spaces.com)
+## Contact Me 📧
 
-And I'm currently working in:
-
-> **Portfolio** 💼
+Actually I'm not searching for works, but if you would like to contact me you can by my **Discord**: \_decme\_
