@@ -4,7 +4,7 @@
 
 I'm from Ecuador.
 
-Coder since `3 years old`.
+Coder since `3 years ago`.
 
 ## And... I've knowledge in 🪽
 
