@@ -1,27 +1,42 @@
 # Welcome to my GitHub Profile 👋
 
-## This is me, *DeepSeek* 🐦‍⬛
+## I am... *DeepSeek* 🐦‍⬛
 
-I'm from Ecuador. I'm always I can learning new things, I also teach others if they need and I can.
+I'm from Ecuador.
 
-I started coding since **3 years ago** just for fun, now I'm searching it to be my profession.
+Coder since `3 years old`.
 
-## My Knowledge 🪽
+## And... I've knowledge in 🪽
 
-I mainly do **Web Development**, **Full-Stack** to be precise. I know `HTML`, `CSS`, `JavaScript` & `TypeScript` as **Front-End**, and `PHP`, `Node.js`, `Python` & `SQL` as **Back-End**.
+### 🌐 Web Development
 
-I also know **Software Engineering** technologies, such as `Java`, `C#`, `C` & `Rust`.
+#### Front-End
+With technologies such as `HTML`, `CSS`, `JavaScript`,
+Supersets like `TypeScript`,
+Pre-processors as `SASS`,
+and Frameworks: `Bootstrap`, `React`, `Next`.
 
-As additional, I know about **Version Control Systems**, with `Git`. I also have knowledge in **Hardware** and basic **Cyber Security**.
+#### Back-End
+With technologies such as `PHP`, `Node.js`, `ASP.NET`, `Python`,
+and Frameworks like `Blazor`, `Laravel`.
 
-## My Projects 📂
+### 🕹️ Software Development
+Languages as `C`, `C#`, `Java`, `Rust`, `Kotlin`.
 
-To date, I have done **one** project:
+And **Version Control Systems** as `Git`.
+Also **Shell**: `PoWerShell`, `Windows CMD` & `Bash`.
 
-> **Basic Calculator App** 📟
-> - [Repository](https:/github.com/DylanEzequiel/CalculatorTS)
-> - [Site](https://dylanezequiel.github.io/CalculatorTS)
+## "What about project?"📂
 
-## Contact Me 📧
+To date, I have done ***2*** projects:
 
-Actually I'm not searching for works, but if you would like to contact me you can by my **Discord**: \_decme\_
+> **CalculatorTS** `Website App` 📟
+> - [Repository](https:/github.com/deep-seek/CalculatorTS)
+> - [Site](https://deep-seek.github.io/CalculatorTS)
+
+> **the Lemonade Stand Game** `Console App` 🍹
+> - [Repository](https://github.com/deep-seek/Lemonade-Stand-Game)
+
+## "Wow, can I contact you" 📧
+
+Nah, for now I'm a little busy... Goodbye! 👋
